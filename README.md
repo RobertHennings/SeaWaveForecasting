@@ -1,4 +1,4 @@
-# Meereswellenforecasting-Weathermodels
+# Sea Wave Forecasting
 The aim of this project is to approximate the wave height in Laboe in the Bay of Kiel on the basis of various weather parameters. Based on a school project of the subject physics, first a classical approach with mathematical calculation and transformation is ventured an approximation, which is then compared with the actual real world data.
 The weather influences both the economy and the people themselves directly and at any time. Human irrationalities in the capital markets have been studied for some time as a separate branch of research in behavioral finance. For example, human behavior in the markets under the influence of the weather.
 It is estimated that at least 80% of all processes in the global economy are indirectly or directly affected by the weather. Thus, the weather becomes an object of observation for many industries, primarily the financial and energy industries in the context of commodity trading, renewable energy production and, in turn, the price of electricity.
